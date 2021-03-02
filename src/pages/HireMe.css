@@ -1,0 +1,44 @@
+.hireme{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-color: #f9f9f99f;
+}
+
+.banner{
+    height: 80vh;
+    width: 600px;
+    position: relative;
+}
+
+.banner::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(168, 0, 247, 0.781);
+    top: 0;
+    left:0;
+}
+ .hire h1{
+     position: absolute;
+     color: white;
+     z-index: 2;
+     top: 50%;
+     left: 10%;
+     font-size: 4em;
+     transform: translateY(-50%);
+     
+    text-align: center;
+    
+    line-height: 70px;
+     
+
+ }
+
+/* img{
+    width: 100%;
+    height: 100%;
+    
+} */
+

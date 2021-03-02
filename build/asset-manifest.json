@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0016306f.chunk.css",
+    "main.js": "/static/js/main.38d0e724.chunk.js",
+    "main.js.map": "/static/js/main.38d0e724.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f374a99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f374a99.js.map",
+    "static/js/2.2a1cba65.chunk.js": "/static/js/2.2a1cba65.chunk.js",
+    "static/js/2.2a1cba65.chunk.js.map": "/static/js/2.2a1cba65.chunk.js.map",
+    "static/js/3.a6c4e269.chunk.js": "/static/js/3.a6c4e269.chunk.js",
+    "static/js/3.a6c4e269.chunk.js.map": "/static/js/3.a6c4e269.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0016306f.chunk.css.map": "/static/css/main.0016306f.chunk.css.map",
+    "static/js/2.2a1cba65.chunk.js.LICENSE.txt": "/static/js/2.2a1cba65.chunk.js.LICENSE.txt",
+    "static/media/airbnb.ad0674c2.PNG": "/static/media/airbnb.ad0674c2.PNG",
+    "static/media/contact.0ea7a9e4.jpg": "/static/media/contact.0ea7a9e4.jpg",
+    "static/media/featured.b84fffeb.JPG": "/static/media/featured.b84fffeb.JPG",
+    "static/media/netflix.9ba9e933.JPG": "/static/media/netflix.9ba9e933.JPG",
+    "static/media/twitter.83792c76.png": "/static/media/twitter.83792c76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f374a99.js",
+    "static/js/2.2a1cba65.chunk.js",
+    "static/css/main.0016306f.chunk.css",
+    "static/js/main.38d0e724.chunk.js"
+  ]
+}
